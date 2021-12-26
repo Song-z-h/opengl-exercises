@@ -1,0 +1,11 @@
+﻿  main.cpp
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(176): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(215): warning C4305: “参数”: 从“double”到“float”截断
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(266): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(270): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(271): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\22lightcasters\22lightcasters\main.cpp(281): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  22LightCasters.vcxproj -> P:\Codes Graphics\22LightCasters\Debug\22LightCasters.exe

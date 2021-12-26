@@ -1,0 +1,12 @@
+﻿  main.cpp
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(217): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(316): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(317): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(321): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(322): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\43framebuffer\43framebuffer\main.cpp(334): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  43FrameBuffer.vcxproj -> P:\Codes Graphics\43FrameBuffer\Debug\43FrameBuffer.exe

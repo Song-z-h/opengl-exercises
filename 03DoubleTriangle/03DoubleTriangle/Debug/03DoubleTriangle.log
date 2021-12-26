@@ -1,0 +1,4 @@
+﻿  main.cpp
+p:\codes graphics\03doubletriangle\03doubletriangle\main.cpp(107): warning C4838: 从“double”转换到“float”需要收缩转换
+p:\codes graphics\03doubletriangle\03doubletriangle\main.cpp(107): warning C4305: “初始化”: 从“double”到“float”截断
+  03DoubleTriangle.vcxproj -> P:\Codes Graphics\03DoubleTriangle\Debug\03DoubleTriangle.exe

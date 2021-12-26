@@ -1,0 +1,10 @@
+﻿  main.cpp
+p:\codes graphics\00test\00test\main.cpp(234): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\00test\00test\main.cpp(334): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\00test\00test\main.cpp(335): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\00test\00test\main.cpp(339): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\00test\00test\main.cpp(340): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\00test\00test\main.cpp(342): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\00test\00test\main.cpp(343): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\00test\00test\main.cpp(352): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  00Test.vcxproj -> P:\Codes Graphics\00Test\Debug\00Test.exe

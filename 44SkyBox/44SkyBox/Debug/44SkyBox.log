@@ -1,0 +1,16 @@
+﻿  main.cpp
+p:\codes graphics\44skybox\44skybox\main.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+p:\codes graphics\44skybox\44skybox\main.cpp(372): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(458): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(516): warning C4305: “*=”: 从“double”到“float”截断
+p:\codes graphics\44skybox\44skybox\main.cpp(544): warning C4018: “<”: 有符号/无符号不匹配
+p:\codes graphics\44skybox\44skybox\main.cpp(645): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(646): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(650): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(651): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(653): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(654): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\44skybox\44skybox\main.cpp(663): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  44SkyBox.vcxproj -> P:\Codes Graphics\44SkyBox\Debug\44SkyBox.exe

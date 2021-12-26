@@ -1,0 +1,10 @@
+﻿  main.cpp
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(207): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(316): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(320): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(321): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(323): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\23multiplelights\23multiplelights\main.cpp(331): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  23MultipleLights.vcxproj -> P:\Codes Graphics\23MultipleLights\Debug\23MultipleLights.exe

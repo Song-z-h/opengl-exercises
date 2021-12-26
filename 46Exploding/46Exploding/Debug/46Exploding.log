@@ -1,0 +1,13 @@
+﻿  main.cpp
+p:\codes graphics\46exploding\46exploding\main.cpp(26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(90): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(114): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(161): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(166): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(167): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(169): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\46exploding\46exploding\main.cpp(179): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  46Exploding.vcxproj -> P:\Codes Graphics\46Exploding\Debug\46Exploding.exe

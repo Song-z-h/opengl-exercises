@@ -1,0 +1,12 @@
+﻿  main.cpp
+p:\opengl\include\debug\mesh.h(59): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(94): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(177): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(178): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(182): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(183): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(185): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(186): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\33model\33model\main.cpp(195): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+p:\opengl\include\debug\model.h(135): warning C4715: “model::processMesh”: 不是所有的控件路径都返回值
+  33Model.vcxproj -> P:\Codes Graphics\33Model\Debug\33Model.exe

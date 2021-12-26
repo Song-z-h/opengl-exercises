@@ -1,0 +1,13 @@
+﻿  glad.cpp
+  image.cpp
+  main.cpp
+p:\codes graphics\21materials\21materials\main.cpp(161): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\21materials\21materials\main.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\21materials\21materials\main.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\21materials\21materials\main.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\21materials\21materials\main.cpp(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\21materials\21materials\main.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\21materials\21materials\main.cpp(259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\21materials\21materials\main.cpp(267): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  21Materials.vcxproj -> P:\Codes Graphics\21Materials\Debug\21Materials.exe

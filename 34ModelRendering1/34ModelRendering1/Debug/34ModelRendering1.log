@@ -1,0 +1,14 @@
+﻿  main.cpp
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(174): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(246): warning C4018: “<”: 有符号/无符号不匹配
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(321): warning C4305: “+=”: 从“double”到“float”截断
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(323): warning C4305: “-=”: 从“double”到“float”截断
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(389): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(390): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(394): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(395): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(397): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(398): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\34modelrendering1\34modelrendering1\main.cpp(407): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  34ModelRendering1.vcxproj -> P:\Codes Graphics\34ModelRendering1\Debug\34ModelRendering1.exe

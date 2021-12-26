@@ -1,0 +1,11 @@
+﻿  main.cpp
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(145): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(155): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(222): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(223): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(225): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(226): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\20basiclighting\20basiclighting\main.cpp(234): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  20BasicLighting.vcxproj -> P:\Codes Graphics\20BasicLighting\Debug\20BasicLighting.exe

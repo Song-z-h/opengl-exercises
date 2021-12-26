@@ -1,0 +1,13 @@
+﻿  main.cpp
+p:\codes graphics\41depthtest\41depthtest\main.cpp(27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(185): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(233): warning C4305: “初始化”: 从“double”到“float”截断
+p:\codes graphics\41depthtest\41depthtest\main.cpp(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(315): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(316): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(318): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(319): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\41depthtest\41depthtest\main.cpp(328): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  41DepthTest.vcxproj -> P:\Codes Graphics\41DepthTest\Debug\41DepthTest.exe

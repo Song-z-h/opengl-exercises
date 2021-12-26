@@ -1,0 +1,12 @@
+﻿  main.cpp
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(131): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(224): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(225): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(229): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(230): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(232): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(233): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+p:\codes graphics\50blinnlighting\50blinnlighting\main.cpp(242): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  50BlinnLighting.vcxproj -> P:\Codes Graphics\50BlinnLighting\Debug\50BlinnLighting.exe
